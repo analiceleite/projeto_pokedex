@@ -11,5 +11,4 @@
   <li>CSS</li>
 </ul>
 
-<h3> Você pode acessar o projeto por meio do link: https://github.com/analiceleite/projeto_pokedex.git </h3>
 <img src= "https://img.shields.io/badge/Status-Completed-green"/>
